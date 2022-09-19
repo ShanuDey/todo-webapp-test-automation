@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//label[@id='TodoItemText' and text()='My test todo']"
+}
